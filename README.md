@@ -62,7 +62,7 @@ To run the code, you need the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ritheshnayak/hybridcipher.git
+   git clone https://github.com/Serioton17/Hybrid-cipher.git
    cd hybridcipher
    ```
 2. Install the required libraries using pip:
